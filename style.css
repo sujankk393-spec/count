@@ -1,0 +1,16 @@
+.body{
+    background-color: #efd5ba;
+}
+#number{
+    font-size: 100px;
+    color: #000;
+    display: block;
+    text-align: center;
+    padding-top: 100px;
+}
+.hi{
+    font-size: 50px;
+    color: #000;
+    display: block;
+    text-align: center;
+}
